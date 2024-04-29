@@ -3,14 +3,10 @@
 <h2> 💻 Software Development Projects:</h2>
 
 - <b>Technical Documentation Page</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
+- <b>Product Landing Page</b>
+  
+
 
  <h2>👨‍💻 Cyber Security Projects:</h2>
  
@@ -19,10 +15,10 @@
   
 <h2>⭐ Certifications:</h2>
 
-- <b>CompTIA Security+</b>
-- <b>Google Cyber Security Professional</b>
-- <b>freeCodeCamp Responsive Web Design</b>
-- <b>freeCodeCamp  Legacy Javascript Algorithms And Data Structures</b>
+- <b>[CompTIA Security+](https://www.credly.com/badges/94c0403f-dcfe-4f83-a5df-5b0747a5dfe8/public_url)</b>
+- <b>[Google Cyber Security Professional](https://www.credly.com/badges/79aab2c8-08d9-4e25-90eb-9650a1ac3627/linked_in_profile)</b>
+- <b>[freeCodeCamp Responsive Web Design](https://freecodecamp.org/certification/Jaxxx1176/responsive-web-design)</b>
+- <b>[freeCodeCamp  Legacy Javascript Algorithms And Data Structures](https://freecodecamp.org/certification/Jaxxx1176/javascript-algorithms-and-data-structures)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
