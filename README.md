@@ -5,6 +5,7 @@
 - <b>Technical Documentation Page</b>
 
 - <b>Product Landing Page</b>
+
   
 
 
@@ -12,6 +13,8 @@
  
 - <b>Spam Filter</b>
 - <b>Caesars Cipher</b>
+- <b>Packet Sniffing With Wireshark</b>
+- <b>Vulnerability Scanning With Nmap</b>
   
 <h2>⭐ Certifications:</h2>
 
