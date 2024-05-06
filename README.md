@@ -2,7 +2,7 @@
 
 <h2> 💻 Software Development Projects:</h2>
 
-- <b>Technical Documentation Page</b>
+- <b>[Technical Documentation Page](https://github.com/bman33609/Technical-Documentation-Page)</b>
 
 - <b>Product Landing Page</b>
 
