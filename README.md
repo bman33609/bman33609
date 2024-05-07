@@ -4,7 +4,7 @@
 
 - <b>[Technical Documentation Page](https://github.com/bman33609/Technical-Documentation-Page)</b>
 
-- <b>Product Landing Page</b>
+- <b>[Product Landing Page](https://github.com/bman33609/Product-Landing-Page)</b>
 
   
 
