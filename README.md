@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brandon! </h1>
 
-<h2> 💻 Software Development Projects:</h2>
+<h2> 💻 Web/Software Development Projects:</h2>
 
 - <b>[Technical Documentation Page](https://github.com/bman33609/Technical-Documentation-Page)</b>
 
