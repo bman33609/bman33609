@@ -11,7 +11,6 @@
 
  <h2>👨‍💻 Cyber Security Projects:</h2>
  
-- <b>Spam Filter</b>
 - <b>[Caesars Cipher](https://github.com/bman33609/Caesars-Cipher/tree/main)</b>
 - <b>[Packet Sniffing With Wireshark](https://github.com/bman33609/Packet-Sniffing-With-Wireshark)</b>
 - <b>[Key Logger](https://github.com/bman33609/Key-Logger)</b>
