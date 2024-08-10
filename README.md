@@ -11,7 +11,7 @@
 
  <h2>👨‍💻 Cyber Security Projects:</h2>
  
-- <b>[Honeypot In Azure Sentinel With Geolocation Heatmap](https://github.com/bman33609/Honeypot-In-Azure-Sentinel-With-Geolocation-Heatmap)</b>
+- <b>[Azure Sentinel(SIEM) With Geographical Heatmap And Honeypot VM](https://github.com/bman33609/Honeypot-In-Azure-Sentinel-With-Geolocation-Heatmap)</b>
 - <b>[Vulnerablity Scanning With Nessus](https://github.com/bman33609/Vulnerability-Scanning-With-Nessus)</b>
 - <b>[Packet Sniffing With Wireshark](https://github.com/bman33609/Packet-Sniffing-With-Wireshark)</b>
 - <b>[Vulnerability Scanning With Nmap](https://github.com/bman33609/Vulnerability-Scanning-With-Nmap/blob/main/README.md)</b>
